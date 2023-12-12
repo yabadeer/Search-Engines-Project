@@ -2,6 +2,9 @@
 
 ### Youssef Abadeer (yabadeer - 20879646)
 
+### User Interaction Tutorial
+[Loom Video Walkthrough (60 second limit)](https://www.loom.com/share/21227ce6f30a4b9d8db08f90b9aa2fb7?sid=24fc8b8e-c382-47b6-ba8e-e67d7c63b920)
+
 ### Description of the Files
 1. `indexEngine.py`: Python script that creates the inverted index, lexicon, among many other data structures, and processes all the documents for storage in the appropriate format.
 2. `BM25.py`: Python script that implements BM25 retrieval. I also implemented my user interaction in this file as well.
@@ -40,6 +43,9 @@ Clone the repository containing the BM25 script and associated data files using 
 `git clone https://github.com/UWaterloo-MSCI-541/msci-541-f23-hw5-yabadeer.git`
 
 Then, navigate to the directory containing the `BM25.py` script and follow the example commands above to execute the retrieval process. As a reminder, you'll first need to run indexEngine.py to create the index, and then run BM25.py to perform the retrieval.
+
+### Acknowledgements
+Some code here was inspired by Professor Mark Smucker at the University of Waterloo, and other online resources. All sources were acknowledged in the comments of the code. 
 
 ### Contact Info
 For any questions or assistance, please contact me at yabadeer@uwaterloo.ca.
